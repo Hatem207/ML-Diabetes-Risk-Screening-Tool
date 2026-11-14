@@ -86,7 +86,7 @@ The Streamlit app lets users answer a short questionnaire (health conditions, li
 
 ## Getting Started
 
-The app opens at `(https://01ab-35-227-69-234.ngrok-free.app/)`.
+The app opens at `https://01ab-35-227-69-234.ngrok-free.app/`.
 
 ## Tech Stack
 
