@@ -8,7 +8,12 @@ An end-to-end machine learning project that estimates diabetes screening risk fr
 
 ## Overview
 
-![Dashboard](https://github.com/Hatem207/Power-BI-Airline-Performance-Analysis/blob/main/Executive%20Overview.png)
+![Dashboard](https://github.com/Hatem207/ML-Diabetes-Risk-Screening-Tool/blob/main/Health%20Conditions.png)
+![Dashboard](https://github.com/Hatem207/ML-Diabetes-Risk-Screening-Tool/blob/main/Lifestyle%20%26%20Physical%20Activity.png)
+![Dashboard](https://github.com/Hatem207/ML-Diabetes-Risk-Screening-Tool/blob/main/General%20Health.png)
+![Dashboard](https://github.com/Hatem207/ML-Diabetes-Risk-Screening-Tool/blob/main/Diabetes%20Risk%20Screening%20Tool)
+![Dashboard](https://github.com/Hatem207/ML-Diabetes-Risk-Screening-Tool/blob/main/Personal%20Information.png)
+![Dashboard](https://github.com/Hatem207/ML-Diabetes-Risk-Screening-Tool/blob/main/Your%20Screening%20Results.png)
 
 The goal is to build a **screening-oriented** model: one that catches as many people at risk as possible so they can be encouraged to get proper testing. For that reason, the model was selected and tuned to maximize **recall** (sensitivity) rather than overall accuracy.
 
